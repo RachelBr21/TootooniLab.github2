@@ -23,6 +23,9 @@ I am an assistant professor in the Department of Health Informatics and Data Sci
 My research lies in the intersection of decision science and artificial intelligence, which furthers knowledge of monitoring of and predictive analytics for complex healthcare systems. I am particularly interested in the role of data science and artificial intelligence tools such as machine learning and natural language processing in development of clinical decision support models. Having an industrial and systems engineering background, I am also interested to apply systems thinking, quality assurance, and optimization principles to improve health outcomes. Furthermore, I teach courses such as ontologies (knowledge representation) in health and natural language processing.
 
 
+![IMG_0488](https://github.com/RachelBr21/TootooniLab.github2/assets/136485825/81e8d348-10f6-4efb-b97b-860d90eb080d)
+
+
 ## 2. Nafiseh Mollaei:
 ### Postdoctoral Research Associate 
 
