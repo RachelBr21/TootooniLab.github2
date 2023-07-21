@@ -26,6 +26,11 @@ My research lies in the intersection of decision science and artificial intellig
 ## 2. Nafiseh Mollaei:
 ### Postdoctoral Research Associate 
 
+
+![mollaei](https://github.com/RachelBr21/TootooniLab.github2/assets/136485825/82b41457-b400-4eaf-9c29-14ea70a37ba7)
+
+
+
  My research focuses on the use of Artificial Intelligence (AI) algorithms to prevent adverse health outcomes. I’m using Large Language Models (LLMs) to transform the field by extracting valuable insights from unstructured data, such as Electronic Health Records. By identifying crucial data points for population health management and clinical trials, I propose that LLMs can be helpful to facilitate the development of therapeutic Inertia.
 
 ## 3. Michael Saban:
@@ -38,6 +43,10 @@ I am currently working on a project that analyzes the contributing factors of th
 
 ## 4. Grant Hiura: 
 ### Medical Student Intern
+
+![hiura](https://github.com/RachelBr21/TootooniLab.github2/assets/136485825/1588c29d-6f75-46de-a4d0-2c7b5d916ea0)
+
+
 
  I am a Medical Student at Loyola University’s Stitch School of Medicine and my current project focuses on EMS-ED-Stroke. Life-saving treatments for strokes are time-sensitive and require rapid triage and transport to the appropriate stroke system of care. Prehospital data, recorded by Emergency Medical Services (EMS), can be used to develop early diagnosis tools, often using artificial intelligence (AI). By improving the quality and quantity of prehospital EMS data and ensuring its interoperability with Emergency Department (ED) data, AI-based clinical tools can be made more accurate, leading to earlier diagnosis of time-sensitive conditions such as stroke. Thus, I am excited for this project because we aim to characterize the availability and distributions of prehospital data, then examine the reliability of prehospital data by comparing EMS measurements with those acquired upon ED arrival.
 
@@ -53,10 +62,19 @@ Hello everyone! I am an Undergraduate Student majoring in Biochemistry and Molec
 ## 6. Shawn Liu:
 ### Undergraduate Student Intern
 
+![liu](https://github.com/RachelBr21/TootooniLab.github2/assets/136485825/c1312bac-8949-4ad7-a1c7-3c2f09ba84df)
+
+
+
 Hi everyone! I’m Shawn Liu, a rising second year undergraduate student at Loyola University’s Lakeshore campus.  I am currently working on the creation, organization, and management of the Tootooni lab website, using both GitHub and Terminal Four. I will also be assisting Grant Hiura on another project regarding stroke hospitals, by taking each data set and sorting each of the given hospitals into what type of stroke facility they are.
 
 ## 7. Neelam Balasubramanian 
 ### Data Analyst
+
+
+![balasubramanian](https://github.com/RachelBr21/TootooniLab.github2/assets/136485825/65700715-b7b3-4e63-ad36-dcb472f713a1)
+
+
 
 My  project seeks to extract concepts from Emergency Department (ED) Chief Complaints (CC) and map them to a structured list of CC Groups created by ED clinicians. When patients come to the ED, the CC is a short description of their reason for visit and is part of the earliest information collected for the encounter. We will first use three natural language processing (NLP) models to extract the concepts in the form of SNOMED-CT codes called SCTIDs. SNOMED-CT is a comprehensive and hierarchical clinical ontology. The three NLP models are cTAKES, cNAE, and a BERT-based model. We will also create the mappings of SCTIDs to CC groups in an SCTID Bank that takes advantage of the SNOMED-CT hierarchy to reduce manual work. Finally we will map the free text CC to the CC groups. These CC groups can be used on their own or be used in downstream processes such as resource allocation and clinical decision support.
 
